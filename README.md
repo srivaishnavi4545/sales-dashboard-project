@@ -64,7 +64,7 @@ January 2023 – June 2025
 
 📸 Dashboard Preview
 
-![Sales Journey Dashboard](https://github.com/your-username/your-repo-name/blob/main/your-image-file.png)
+![Sales Journey Dashboard](https://github.com/srivaishnavi4545/sales-dashboard-project/blob/main/Screenshot%202025-10-31%20182042.png)
 
 ##💡 Key Learnings
 
