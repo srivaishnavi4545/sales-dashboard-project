@@ -60,6 +60,12 @@ Profit
 
 January 2023 – June 2025
 
+2025
+
+📸 Dashboard Preview
+
+![Sales Journey Dashboard](https://github.com/your-username/your-repo-name/blob/main/your-image-file.png)
+
 ##💡 Key Learnings
 
 Data modeling and DAX calculations in Power BI
