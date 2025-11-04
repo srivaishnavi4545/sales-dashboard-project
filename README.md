@@ -12,6 +12,7 @@ The Sales Journey Dashboard visualizes key business metrics such as profit, tota
 #sales dataset.xlsx	Dataset used for building the dashboard
 #Sales journey report.docx	Project documentation and insights summary
 #README.md	Repository overview and details
+
 ##🧠 Key Insights
 
 Total Profit: 785.76K
